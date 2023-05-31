@@ -2,8 +2,8 @@
 
 <h2>Arquitetura: Microserviços</h2>
 
-<h2>Tecnologias e metodologias:</h1>
-<p>Design Patterns</p>
+<h3>Tecnologias e metodologias:</h3>
+<p>- Design Patterns</p>
 <p>- Spring Framework</p>
 <p>- Flyway Migrations</p>
 <p>- Spring Cloud Netflix(Eureka Server)</p>
